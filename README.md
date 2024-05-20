@@ -27,8 +27,4 @@ The LLammaIndexJsApp integrates a range of advanced techniques to ensure a seaml
 ## Conclusion
 LLammaIndexJsApp sets a new benchmark in web application development, especially in environments that necessitate dynamic content management and sophisticated user interactions. Through its integration of document indexing, conversational interfaces, and data streaming, this application exemplifies the potential of modern web technologies to revolutionize user engagement and content management.
 
-## Configuration
-- **OpenAI API Key**: Securely store your OpenAI API key in the environment variable `OPENAI_API_KEY`.
-- **AWS API Key**: Manage your AWS API key through the AWS management console or within environment variables, as necessary.
-
 ---
