@@ -27,7 +27,7 @@ The LLammaIndexJSAPP project integrates various cutting-edge techniques to ensur
 ## Conclusion
 LLammaIndexJSAPP represents a significant advancement in the field of web application development, particularly in scenarios requiring dynamic content management and sophisticated user interactions. By integrating document indexing, conversational interfaces, and streaming data, this application sets a new standard for what modern web technologies can achieve.
 
-NOTE: Add your Open AI Api Key and AWS Api Key.
+### NOTE: Add your Open AI Api Key and AWS Api Key.
 
 ---
 
