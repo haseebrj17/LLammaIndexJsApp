@@ -1,6 +1,6 @@
 ---
 
-# LLammaIndexJSAPP: Enhancing Web Applications with Intelligent Document Indexing
+# LLammaIndexJsApp: Enhancing Web Applications with Intelligent Document Indexing
 
 ## Overview
 LLammaIndexJSAPP is a comprehensive JavaScript application that utilizes the LlamaIndex library to create a highly interactive and intelligent web application. This project focuses on three core functionalities: persistent data storage, interactive chatting, and real-time streaming, making it ideal for applications requiring dynamic content management and retrieval.
