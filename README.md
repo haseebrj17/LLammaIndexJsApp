@@ -4,7 +4,6 @@
 
 ## Overview
 LLammaIndexJsApp is a sophisticated JavaScript application that leverages the LlamaIndex library to deliver a dynamic and interactive web application. It focuses on three primary functionalities: persistent data storage, interactive chatting, and real-time streaming. These features make it exceptionally suitable for applications that require dynamic content management and retrieval.
-
 ## Project Description
 The LLammaIndexJsApp integrates a range of advanced techniques to ensure a seamless and effective user experience in web applications that manage significant data interactions. By utilizing the power of LlamaIndex, this application not only responds adeptly to user queries but also maintains a consistent operational state across sessions and streams content dynamically as needed.
 
